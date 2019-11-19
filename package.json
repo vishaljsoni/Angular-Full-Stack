@@ -21,7 +21,9 @@
     "linthtml": "htmlhint \"client/**/*.html\"",
     "lintscss": "sass-lint \"client/**/*.scss\" -v",
     "lintbe": "tslint server/**/**.ts{,x}",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "private": true,
   "dependencies": {
@@ -48,7 +50,8 @@
     "rxjs-compat": "~6.3.3",
     "tslib": "^1.10.0",
     "tether": "^1.4.7",
-    "zone.js": "~0.9.1"
+    "zone.js": "~0.9.1",
+    "snyk": "^1.249.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.803.15",
@@ -74,10 +77,11 @@
     "karma-jasmine-html-reporter": "^1.4.0",
     "mocha": "^6.2.2",
     "nodemon": "^1.19.4",
-    "protractor": "~5.4.0",
+    "protractor": "~6.0.0",
     "sass-lint": "^1.13.1",
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "snyk": true
 }

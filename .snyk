@@ -1,0 +1,299 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - karma > chokidar > readdirp > micromatch > extglob > expand-brackets > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > braces > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > readdirp > micromatch > extglob > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > readdirp > micromatch > extglob > expand-brackets > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > anymatch > micromatch > braces > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > readdirp > micromatch > extglob > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > readdirp > micromatch > braces > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > readdirp > micromatch > braces > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > anymatch > micromatch > extglob > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > anymatch > micromatch > extglob > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > anymatch > micromatch > braces > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > anymatch > micromatch > extglob > expand-brackets > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > anymatch > micromatch > extglob > expand-brackets > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > anymatch > micromatch > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > anymatch > micromatch > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > stylus > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - sass-lint > eslint > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > undefsafe > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > braces > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > braces > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > braces > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > chokidar > readdirp > micromatch > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+    - nodemon > chokidar > readdirp > micromatch > snapdragon > debug:
+        patched: '2019-11-19T18:00:57.587Z'
+  'npm:extend:20180424':
+    - '@types/chai-http > chai-http > superagent > extend':
+        patched: '2019-11-19T18:00:57.587Z'
+    - protractor > webdriver-manager > request > extend:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > less > request > extend':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma > dom-serialize > extend:
+        patched: '2019-11-19T18:00:57.587Z'
+    - chai-http > superagent > extend:
+        patched: '2019-11-19T18:00:57.587Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - protractor > saucelabs > https-proxy-agent:
+        patched: '2019-11-19T18:00:57.587Z'
+    - protractor > browserstack > https-proxy-agent:
+        patched: '2019-11-19T18:00:57.587Z'
+  SNYK-JS-LODASH-450202:
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-replace-supers > @babel/helper-optimise-call-expression > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-object-super > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-parameters > @babel/helper-call-delegate > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-define-map > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/traverse > @babel/helper-function-name > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/traverse > @babel/helper-function-name > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-simple-access > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-modules-amd > @babel/helper-module-transforms > @babel/helper-simple-access > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/helper-annotate-as-pure > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-function-name > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/traverse > @babel/generator > @babel/types > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/traverse > @babel/helper-split-export-declaration > @babel/types > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-modules-umd > @babel/helper-module-transforms > @babel/helper-simple-access > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/helper-annotate-as-pure > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/core > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-modules-umd > @babel/helper-module-transforms > @babel/helper-module-imports > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-modules-commonjs > @babel/helper-module-transforms > @babel/helper-module-imports > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-modules-amd > @babel/helper-module-transforms > @babel/helper-module-imports > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/generator > @babel/types > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-optimise-call-expression > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-proposal-async-generator-functions > @babel/helper-remap-async-to-generator > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-template-literals > @babel/helper-annotate-as-pure > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-annotate-as-pure > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-module-imports > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-modules-commonjs > @babel/helper-simple-access > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-function-name > @babel/helper-function-name > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-function-name > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/traverse > @babel/generator > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/template > @babel/types > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-parameters > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/traverse > @babel/types > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-reports > handlebars > async > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/helper-module-imports > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/generator > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/types > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > istanbul-lib-instrument > @babel/traverse > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > source-map-loader > async > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
+    - karma-coverage-istanbul-reporter > istanbul-api > async > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - htmlhint > async > lodash:
+        patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > @babel/preset-env > @babel/plugin-transform-object-super > @babel/helper-replace-supers > @babel/helper-optimise-call-expression > @babel/types > lodash':
+        patched: '2019-11-19T18:00:57.587Z'
