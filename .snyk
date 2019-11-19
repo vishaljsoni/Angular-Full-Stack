@@ -166,6 +166,170 @@ patch:
         patched: '2019-11-19T18:00:57.587Z'
     - nodemon > chokidar > readdirp > micromatch > snapdragon > debug:
         patched: '2019-11-19T18:00:57.587Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > stylus > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > undefsafe > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > braces > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - snyk > proxy-agent > pac-proxy-agent > get-uri > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > braces > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > braces > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > readdirp > micromatch > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > readdirp > micromatch > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > anymatch > micromatch > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > anymatch > micromatch > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > readdirp > micromatch > extglob > expand-brackets > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > anymatch > micromatch > extglob > expand-brackets > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > anymatch > micromatch > extglob > expand-brackets > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > anymatch > micromatch > braces > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > readdirp > micromatch > braces > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > anymatch > micromatch > extglob > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > anymatch > micromatch > extglob > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > anymatch > micromatch > braces > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > readdirp > micromatch > extglob > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > readdirp > micromatch > extglob > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - sass-lint > eslint > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > readdirp > micromatch > braces > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > readdirp > micromatch > extglob > expand-brackets > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > http-proxy-middleware > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - nodemon > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular/compiler-cli > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - karma > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug:
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > extglob > expand-brackets > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > extglob > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack-dev-server > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > nanomatch > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > braces > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > anymatch > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
+    - '@angular-devkit/build-angular > webpack > watchpack > chokidar > readdirp > micromatch > extglob > expand-brackets > snapdragon > debug':
+        patched: '2019-11-19T18:14:54.140Z'
   'npm:extend:20180424':
     - '@types/chai-http > chai-http > superagent > extend':
         patched: '2019-11-19T18:00:57.587Z'
