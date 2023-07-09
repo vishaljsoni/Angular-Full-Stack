@@ -76,7 +76,7 @@
     "karma-jasmine": "~2.0.1",
     "karma-jasmine-html-reporter": "^1.4.0",
     "mocha": "^6.2.2",
-    "nodemon": "^1.19.4",
+    "nodemon": "^3.0.0",
     "protractor": "~6.0.0",
     "sass-lint": "^1.13.1",
     "ts-node": "~7.0.0",
